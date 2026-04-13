@@ -1,0 +1,61 @@
+{
+  "props": {
+    "pageProps": {
+      "searchPageState": {
+        "cat1": {
+          "searchResults": {
+            "totalResultCount": 3,
+            "listResults": [
+              {
+                "zpid": "49009508",
+                "address": "14933 SE 45th Pl, Bellevue, WA 98006",
+                "hdpData": {
+                  "homeInfo": {
+                    "zpid": 49009508,
+                    "streetAddress": "14933 SE 45th Pl",
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zipcode": "98006",
+                    "zestimate": 3601900,
+                    "rentZestimate": 14200,
+                    "homeType": "SINGLE_FAMILY"
+                  }
+                }
+              },
+              {
+                "zpid": "49009510",
+                "address": "14935 SE 45th Pl, Bellevue, WA 98006",
+                "hdpData": {
+                  "homeInfo": {
+                    "zpid": 49009510,
+                    "streetAddress": "14935 SE 45th Pl",
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zipcode": "98006",
+                    "zestimate": 2850000,
+                    "homeType": "SINGLE_FAMILY"
+                  }
+                }
+              },
+              {
+                "zpid": "49009515",
+                "address": "14940 SE 45th Pl, Bellevue, WA 98006",
+                "hdpData": {
+                  "homeInfo": {
+                    "zpid": 49009515,
+                    "streetAddress": "14940 SE 45th Pl",
+                    "city": "Bellevue",
+                    "state": "WA",
+                    "zipcode": "98006",
+                    "zestimate": 3200000,
+                    "homeType": "SINGLE_FAMILY"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

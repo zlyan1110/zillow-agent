@@ -1,0 +1,11 @@
+{
+  "props": {
+    "pageProps": {
+      "componentProps": {
+        "gdpClientCache": {
+          "property_49009508": "{\"property\":{\"zpid\":49009508,\"address\":{\"streetAddress\":\"14933 SE 45th Pl\",\"city\":\"Bellevue\",\"state\":\"WA\",\"zipcode\":\"98006\"},\"price\":null,\"zestimate\":3601900,\"rentZestimate\":14200,\"bedrooms\":5,\"bathrooms\":4,\"livingArea\":4200,\"yearBuilt\":2005,\"homeType\":\"SINGLE_FAMILY\",\"homeStatus\":\"OTHER\"}}"
+        }
+      }
+    }
+  }
+}
